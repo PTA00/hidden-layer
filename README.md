@@ -9,3 +9,5 @@
 ![表图](https://github.com/PTA00/hidden-layer/blob/main/%E5%9B%BE%E5%B1%82%200.png)
 ### 里图
 ![里图](https://github.com/PTA00/hidden-layer/blob/main/%E5%9B%BE%E5%B1%82%202.png)
+### 结果（隐藏图）
+![结果（隐藏图）](https://github.com/PTA00/hidden-layer/blob/main/output1.png)
