@@ -1,8 +1,16 @@
 # hidden-layer
 幻影坦克 隐藏图 可调整灰度比例
 
-前置组件：opencv-python、其它的忘了，有问题务必留言。
+最后测试正常的版本是：`python 3.11.2`（不代表其他版本不行）
 
+前置组件，推荐使用清华大学镜像站：`https://mirrors.tuna.tsinghua.edu.cn`
+
+```
+pip install opencv-python
+pip install ipywidgets
+pip install matplotlib
+pip install ipympl
+```
 注： 输入的两个图片大小必须相同，输出的图片保存在当前目录下。
 ## 使用效果
 ### 表图
