@@ -15,6 +15,7 @@ pip install ipympl
 
 ## 基本原理
 <img src="https://github.com/PTA00/hidden-layer/blob/main/%E5%B9%BB%E5%BD%B1%E5%9D%A6%E5%85%8B%E5%85%AC%E5%BC%8F.png"/>
+<img src="https://github.com/PTA00/hidden-layer/blob/main/%E7%81%B0%E5%BA%A6%E5%88%86%E5%B1%82%E5%85%AC%E5%BC%8F.png"/>
 
 ## 使用效果
 ### 表图
