@@ -12,6 +12,10 @@ pip install matplotlib
 pip install ipympl
 ```
 注： 输入的两个图片大小必须相同，输出的图片默认保存在当前目录下。
+
+## 基本原理
+.<img src="https://github.com/PTA00/hidden-layer/blob/main/%E5%B9%BB%E5%BD%B1%E5%9D%A6%E5%85%8B%E5%85%AC%E5%BC%8F.png"/>
+
 ## 使用效果
 ### 表图
 .<img src="https://github.com/PTA00/hidden-layer/blob/main/%E5%9B%BE%E5%B1%82%200.png" width="496" height="286" />
