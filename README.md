@@ -19,7 +19,9 @@ pip install ipympl
 ## 使用效果
 ### 表图
 <img src="https://github.com/PTA00/hidden-layer/blob/main/%E5%9B%BE%E5%B1%82%200.png" width="496" height="286" />
+
 ### 里图
 <img src="https://github.com/PTA00/hidden-layer/blob/main/%E5%9B%BE%E5%B1%82%202.png" width="496" height="286" />
+
 ### 结果（白色背景时，请保存查看黑色背景）
 <img src="https://github.com/PTA00/hidden-layer/blob/main/output.png" width="496" height="286" />
